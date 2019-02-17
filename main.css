@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0;
+    padding: 0 0 0 0;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 0 0 0 0;
+    margin-right: auto;
+}
+
+nav {
+    background-color: #70986a;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 100px;
+}
+
+#menu {
+    padding: 0 0 0 0;
+}
+
+#menu > li {
+    list-style-type: none;
+    display: block;
+    height: 2em;
+}
+
+#menu > li > :link {
+    color: white;
+    text-decoration: none;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+#menu > li > :visited {
+    color: white;
+}
+
+nav > button {
+    border: 0;
+    width: 64px;
+    height: 64px;
+    background-color: inherit;
+}
+
+nav > button {
+    display: block;
+}
+
+#menu {
+    display: none;
+    margin: 0 0 0 0;
+}
+
+#menu.open {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 100px;
+    z-index: 2;
+    background-color: inherit;
+}
+
+#menu > li.current {
+    border-left: medium solid #b8134e;
+}
+
+@media(min-width: 700px) {
+    nav > button {
+        display: none;
+    }
+
+    #menu {
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-end;
+        margin: 0 0 0 0;
+    }
+
+    #menu > li.current {
+        border-left: none;
+        border-bottom: medium solid #b8134e;
+    }
+
+    #menu > li:hover {
+        border: 0 0 0 0;
+        border-bottom: medium solid #b8134e;
+    }
+}
+
+#head-image {
+    background-image: linear-gradient(to bottom,
+        rgba(32, 32, 0, 0),
+        rgba(32, 32, 0, 0.5)), url("_MG_6911.jpg");
+    height: 450px;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+#head-image > h2 {
+    position: absolute;
+    margin: 0 0 0 0;
+    width: 100%;
+    bottom: 0.5em;
+    text-align: center;
+    font-size: 48px;
+    text-shadow: 0 1px 0 black;
+}
