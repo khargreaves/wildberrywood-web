@@ -12,9 +12,15 @@ activties, and crucially, have time for free play in the woods.
 Covert Woods, Poverest Park, Orpington. The car park is accessed via
 Footbury Hill Rd, Orpington BR6 2SX. Poverest Park is a short walk
 from Orpington town centre. The nearest bus stop is Perry Hall School
-(stop P, route 61). Click here for a map of the park. Our meeting
-point is the fallen tree on the far side of the football pitch,
-opposite the blue football pavilion.
+(stop P, route 61). Our meeting point is the fallen tree on the far
+side of the football pitch, opposite the blue football pavilion.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no"
+marginheight="0" marginwidth="0"
+src="https://www.openstreetmap.org/export/embed.html?bbox=0.08855581283569336%2C51.38178554297546%2C0.10355472564697267%2C51.38763092355746&amp;layer=mapnik"
+style="border: 1px solid
+black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/51.38471/0.09606">View
+Larger Map</a></small>
 
 ## When?
 
