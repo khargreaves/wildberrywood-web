@@ -1,7 +1,8 @@
+destination: docs
 
 site:
-  title: cobalt blog
-  description: Blog Posts Go Here
+  title: Wildberry Wood Outdoor Learning
+  description: 
   base_url: http://example.com
 posts:
   rss: rss.xml
