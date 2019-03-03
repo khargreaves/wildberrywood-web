@@ -1,6 +1,7 @@
 ---
 layout: default.liquid
 title: Wildberry Wood Outdoor Learning
+categories: [home]
 ---
 
 Wildberry Wood Outdoor Learning specialise in Forest School

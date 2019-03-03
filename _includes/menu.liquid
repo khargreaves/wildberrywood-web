@@ -9,22 +9,38 @@
         <img src="menu.svg"alt="Menu">
     </button>
     <ul id="menu">
-        <li class="current">
+      <li
+        {% if page.categories contains "home" %}
+          class="current"
+        {% endif %}
+        >
             <a href="index.html">
                 Home
             </a>
         </li>
-        <li>
+      <li
+        {% if page.categories contains "about" %}
+          class="current"
+        {% endif %}
+        >
             <a href="about.html">
                 About
             </a>
         </li>
-        <li>
+      <li
+        {% if page.categories contains "little-explorers" %}
+          class="current"
+        {% endif %}
+        >
             <a href="little-explorers.html">
                 Little Explorers
             </a>
         </li>
-        <li>
+      <li
+        {% if page.categories contains "contact" %}
+          class="current"
+        {% endif %}
+        >
             <a href="contact.html">
                 Contact
             </a>

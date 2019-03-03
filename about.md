@@ -1,6 +1,7 @@
 ---
 layout: default.liquid
 title: About
+categories: [about]
 ---
 
 I'm Katie and I'm a Level 3 Forest School Leader. I'm a
