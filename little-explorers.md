@@ -10,10 +10,13 @@ activties, and crucially, have time for free play in the woods.
 
 ## Where? 
 
-Covert Woods, Poverest Park, Orpington. The car park is accessed via
-Footbury Hill Rd, Orpington BR6 2SX. Poverest Park is a short walk
-from Orpington town centre. The nearest bus stop is Perry Hall School
-(stop P, route 61). Our meeting point is the fallen tree on the far
+Covert Woods, Poverest Park, Orpington.
+
+Poverest Park is a short walk from Orpington town centre. The nearest
+bus stop is Perry Hall School (stop P, route 61) and the car park is
+accessed viaFootbury Hill Rd, Orpington BR6 2SX.
+
+Our meeting point is the fallen tree on the far
 side of the football pitch, opposite the blue football pavilion.
 
 <iframe width="425" height="350" frameborder="0" scrolling="no"
@@ -25,13 +28,15 @@ Larger Map</a></small>
 
 ## When?
 
-Monday mornings, 10am-11.30
+Monday mornings, 10am-11.30am
 
 ## How much?
 
-£5 per child, no charge of parents/carers. Take advantage of our term
-card discount by paying in advance for 5 sessions and receive your
-sixth session free! Click here for more information.
+£5 per child, no charge of parents/carers.
+
+Take advantage of our term card discount by paying in advance for 5
+sessions and receive your sixth session free! Click here for more
+information.
 
 ## Why?
 
