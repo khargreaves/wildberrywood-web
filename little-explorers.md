@@ -2,6 +2,8 @@
 layout: default.liquid
 title: Little Explorers
 categories: [little-explorers]
+data:
+  head-img: images/img_7473.jpg
 ---
 
 Little Explorers is a Forest School style group for preschool children
