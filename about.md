@@ -18,5 +18,5 @@ of these documents can be viewed on request.
 
 As well as leading weekly sessions for preschool children and their
 carers, I am also able to lead sessions in schools and other settings
-within the South London/North Kent area. Please contact me for more
+within the South London/North Kent area. Please [contact me](mailto:wildberrywoodlearning@gmail.com) for more
 information.
