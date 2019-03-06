@@ -34,7 +34,9 @@ Larger Map</a></small>
 
 ## How much?
 
-£5 per child over 1 year. 
+Our pilot session on Monday 18th March will be free of charge!
+
+Following sessions will be charged at £5 per child over 1 year.  
 
 Get 6 sessions for the price of 5 with our pre-pay flexi card. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer. 
 
