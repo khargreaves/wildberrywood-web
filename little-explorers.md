@@ -14,6 +14,8 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
+Spring term will run from 18th March 2019
+
 ## Where? 
 
 Covert Woods, Poverest Park, Orpington.
@@ -36,7 +38,7 @@ Larger Map</a></small>
 
 Our pilot session on Monday 18th March will be free of charge!
 
-Following sessions will be charged at £5 per child over 1 year.  
+Following sessions will be charged at £5 per child over 1 year.
 
 Get 6 sessions for the price of 5 with our pre-pay flexi card. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer. 
 
