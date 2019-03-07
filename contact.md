@@ -3,5 +3,9 @@ layout: default.liquid
 title: Contact
 categories: [contact]
 --- 
-To find out more about our preschool sessions, or to inquire booking us for other sessions please send us an email.
+To find out more about our preschool group, or to inquire booking us for other sessions please send us an email.
 [wildberrywoodlearning@gmail.com](mailto:wildberrywoodlearning@gmail.com).
+
+Call us on 07938 248749
+
+Like our [Facebook page](https://www.facebook.com/wildberrywood)
