@@ -31,14 +31,14 @@ side of the football pitch, opposite the blue football pavilion.
 marginheight="0" marginwidth="0"
 src="https://www.openstreetmap.org/export/embed.html?bbox=0.08855581283569336%2C51.38178554297546%2C0.10355472564697267%2C51.38763092355746&amp;layer=mapnik"
 style="border: 1px solid
-black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/51.38471/0.09606">View
+black; max-width:100%"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/51.38471/0.09606">View
 Larger Map</a></small>
 
 ## How much?
 
 Our pilot session on Monday 18th March will be free of charge!
 
-Following sessions will be charged at £5 per child over 1 year.
+Following sessions will be charged at £5 per child over 1 year. 
 
 Get 6 sessions for the price of 5 with our pre-pay flexi card. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer. 
 
