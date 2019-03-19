@@ -6,7 +6,7 @@ data:
   head-img: images/img_7473.jpg
 ---
 
-Little Explorers is a Forest School style group for preschool children
+Little Explorers is a Forest School style group for toddlers and preschool children
 and their carers. We read stories, sing songs, do nature based
 activities, and have plenty of time for free play in the woods.
 
@@ -14,14 +14,20 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
-Spring term will run from 18th March 2019
+Dates for spring term 2019:
+- 18th March - Birds
+- 25th March - Mother's Day
+- 1st April - Going on a Bear Hunt!
+- 8th April - Easter fun
+* 15th and 22nd no sessions
+- 29th April summer term sessions begin
 
 ## Where? 
 
 Covert Woods, Poverest Park, Orpington.
 
 Poverest Park is a short walk from Orpington town centre. The nearest
-bus stop is Perry Hall School (stop P, route 61) and the car park is
+bus stop is Perry Hall School (stop P, route 61) and the free car park is
 accessed via Footbury Hill Rd, Orpington BR6 2SX.
 
 Our meeting point is the fallen tree on the far
@@ -36,11 +42,14 @@ Larger Map</a></small>
 
 ## How much?
 
-Our pilot session on Monday 18th March will be free of charge!
+Sessions are charged at £5 per child over 1 year. Younger siblings are welcome to come along free of charge. 
 
-Following sessions will be charged at £5 per child over 1 year. 
+Sessions are drop-in, no need to pre book. There are two ways to pay: 
+* £5 cash on the day
 
-Get 6 sessions for the price of 5 with our pre-pay flexi card. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer. 
+or
+
+* get 6 sessions for the price of 5 with our pre-pay flexicard. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer and get details of how to pay by bank transfer. You can use your flexicard over any time scale, it doesn't have to be for consecutive sessions. We know that plans can often change at the last minute when little ones are involved! 
 
 ## Why?
 
@@ -49,6 +58,9 @@ and old, benefits from contact with nature. It relieves stress, makes
 us more mindful, and creates confident, well-rounded young people. We
 also believe that it's important to encourage children to respect
 nature, so that they will want to protect it for the future. It's also lots of fun! 
+
+## What facilities are available?
+We have access to toilets and handwashing facilities in the football pavilion. Refreshments are provided for children and grown ups. 
 
 ## What will my child need to wear?
 Sessions will take place in all weathers (except thunderstorms
