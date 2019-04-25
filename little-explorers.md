@@ -14,13 +14,23 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
-Dates for spring term 2019:
-- 18th March - Birds
-- 25th March - Mother's Day
-- 1st April - Going on a Bear Hunt!
-- 8th April - Easter fun
-* 15th and 22nd no sessions
-- 29th April summer term sessions begin
+Dates for summer term 2019:
+
+- 29th April - celebrating the end of winter
+- 6th May - a walk in the woods
+- 13th May - going on a bug hunt
+- 20h May - The Very Hungry Caterpillar
+- 27th May - Dinosaurs!
+- 3rd June - beautiful butterflies
+- 10th June - magical elder
+- 17th June - Superworm!
+- 24th June - Midsummer celebration
+
+
+* no session 1st, 8th or 15th July
+
+
+- 22nd and 29th July, 5th and 12th August - summer holiday sessions
 
 ## Where? 
 
