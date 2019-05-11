@@ -34,7 +34,7 @@ Dates for summer term 2019:
 
 ## Where? 
 
-Covert Woods, Poverest Park, Orpington.
+Covet Woods, Poverest Park, Orpington.
 
 Poverest Park is a short walk from Orpington town centre. The nearest
 bus stop is Perry Hall School (stop P, route 61) and the free car park is
