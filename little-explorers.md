@@ -1,7 +1,7 @@
 ---
 layout: default.liquid
 title: Little Explorers
-categories: [little-explorers]
+categories: [sessions]
 data:
   head-img: images/img_7473.jpg
 ---
@@ -32,7 +32,7 @@ Dates for summer term 2019:
 
 - 22nd and 29th July, 5th and 12th August - summer holiday sessions
 
-## Where? 
+## Where?
 
 Covet Woods, Poverest Park, Orpington.
 
@@ -52,14 +52,14 @@ Larger Map</a></small>
 
 ## How much?
 
-Sessions are charged at £5 per child over 1 year. Younger siblings are welcome to come along free of charge. 
+Sessions are charged at £5 per child over 1 year. Younger siblings are welcome to come along free of charge.
 
-Sessions are drop-in, no need to pre book. There are two ways to pay: 
+Sessions are drop-in, no need to pre book. There are two ways to pay:
 * £5 cash on the day
 
 or
 
-* get 6 sessions for the price of 5 with our pre-pay flexicard. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer and get details of how to pay by bank transfer. You can use your flexicard over any time scale, it doesn't have to be for consecutive sessions. We know that plans can often change at the last minute when little ones are involved! 
+* get 6 sessions for the price of 5 with our pre-pay flexicard. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer and get details of how to pay by bank transfer. You can use your flexicard over any time scale, it doesn't have to be for consecutive sessions. We know that plans can often change at the last minute when little ones are involved!
 
 ## Why?
 
@@ -67,10 +67,10 @@ There is a growing body of research that shows that everyone, young
 and old, benefits from contact with nature. It relieves stress, makes
 us more mindful, and creates confident, well-rounded young people. We
 also believe that it's important to encourage children to respect
-nature, so that they will want to protect it for the future. It's also lots of fun! 
+nature, so that they will want to protect it for the future. It's also lots of fun!
 
 ## What facilities are available?
-We have access to toilets and handwashing facilities in the football pavilion. Refreshments are provided for children and grown ups. 
+We have access to toilets and handwashing facilities in the football pavilion. Refreshments are provided for children and grown ups.
 
 ## What will my child need to wear?
 Sessions will take place in all weathers (except thunderstorms
@@ -78,21 +78,15 @@ Sessions will take place in all weathers (except thunderstorms
   yourself!) appropriately. It is wise to layer up. Waterproof jackets
   and boots are essential, and waterproof trousers or puddle suits can
   be useful even if it is not wet, as children like to sit on the
-  ground. We strongly recommend wearing long sleeves and trousers in all weathers to avoid scratches and biting insects (it is also often cooler in the woods than it feels outside). If you have any questions about suitable clothing, or would like to find out if we have any second hand kit in your size, please send us an [email](mailto:wildberrywoodlearning@gmail.com). Similarly if your child has grown out of their kit and you would like to donate it, we will see that it gets used! 
+  ground. We strongly recommend wearing long sleeves and trousers in all weathers to avoid scratches and biting insects (it is also often cooler in the woods than it feels outside). If you have any questions about suitable clothing, or would like to find out if we have any second hand kit in your size, please send us an [email](mailto:wildberrywoodlearning@gmail.com). Similarly if your child has grown out of their kit and you would like to donate it, we will see that it gets used!
 
 ## Please note
-These sessions are for preschool children accompanied by a 
+These sessions are for preschool children accompanied by a
   parent, grandparent, childminder or other carer. We are in a public
   space, and whilst efforts are made to check for hazards, it's
   important that you keep your child under supervision at all
   times. Please report any hazards found to the session leader. Other people, especially dog walkers, use the area, so please
-  be mindful of this. 
+  be mindful of this.
 Please respect the site. We have permission to use the woods from Bromley council, but that permission can be withdrawn if they think we are damaging the woodland habitat. Please avoid trampling flowers and pulling leaves and twigs off trees. Please don’t drop any litter.
 
 ## We look forward to exploring with you!
-
-
-
-
-
-
