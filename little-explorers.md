@@ -14,23 +14,16 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
-Dates for summer term 2019:
+*Summer Holiday sessions 2019*
+ 
+* 22nd July - little monsters!
+* 29th July - terrific trees!
+* 5th August - survival!
+* 12th August - pirates!
 
-- 29th April - celebrating the end of winter
-- 6th May - a walk in the woods
-- 13th May - going on a bug hunt
-- 20h May - The Very Hungry Caterpillar
-- 27th May - Dinosaurs!
-- 3rd June - beautiful butterflies
-- 10th June - magical elder
-- 17th June - Superworm!
-- 24th June - Midsummer celebration
+*no session 19th or 26th August*
 
-
-* no session 1st, 8th or 15th July
-
-
-- 22nd and 29th July, 5th and 12th August - summer holiday sessions
+We will be back for regular Monday morning sessions from 2nd September 2019
 
 ## Where?
 
@@ -52,7 +45,7 @@ Larger Map</a></small>
 
 ## How much?
 
-Sessions are charged at £5 per child over 1 year. Younger siblings are welcome to come along free of charge.
+Sessions are charged at £5 per child over 1 year. Younger siblings are welcome to come along free of charge. During the school holidays older siblings are welcome to attend.
 
 Sessions are drop-in, no need to pre book. There are two ways to pay:
 * £5 cash on the day
