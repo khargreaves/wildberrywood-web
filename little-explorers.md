@@ -14,16 +14,11 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
-*Summer Holiday sessions 2019*
- 
-* 22nd July - little monsters!
-* 29th July - terrific trees!
-* 5th August - survival!
-* 12th August - pirates!
+*Autumn term begins 2nd September 2019!*
 
-*no session 19th or 26th August*
+Sessions are drop-in - feel free to join us at any point in the term. Check out our [Facebook page](https://www.facebook.com/wildberrywood) page for regular updates and any last minute changes to sessions. 
 
-We will be back for regular Monday morning sessions from 2nd September 2019
+Autumn is my favourite time of year to be out in the forest, watching the leaves change colour, collecting acorns, conkers and other seeds, and enjoying the fresh air. This term we will also be celebrating the Gruffalo's 20th birthday by taking a stroll through the deep dark wood, building dens for different characters, and trying out a recipe for gruffalo crumble! 
 
 ## Where?
 
