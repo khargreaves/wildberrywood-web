@@ -26,7 +26,7 @@ Covet Woods, Poverest Park, Orpington.
 
 Poverest Park is a short walk from Orpington town centre. The nearest
 bus stop is Perry Hall School (stop P, route 61) and the free car park is
-accessed via Footbury Hill Rd, Orpington BR6 2SX.
+accessed via Footbury Hill Rd, Orpington BR6 0HP.
 
 Our meeting point is the fallen tree on the far
 side of the football pitch, opposite the blue football pavilion.
