@@ -14,11 +14,22 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
-*Autumn term begins 2nd September 2019!*
+Please note there will be no session on 2nd December 2019. The last session of term will be 16th December. 
 
 Sessions are drop-in - feel free to join us at any point in the term. Check out our [Facebook page](https://www.facebook.com/wildberrywood) page for regular updates and any last minute changes to sessions. 
 
-Autumn is my favourite time of year to be out in the forest, watching the leaves change colour, collecting acorns, conkers and other seeds, and enjoying the fresh air. This term we will also be celebrating the Gruffalo's 20th birthday by taking a stroll through the deep dark wood, building dens for different characters, and trying out a recipe for gruffalo crumble! 
+Autumn is my favourite time of year to be out in the forest, watching the leaves change colour, collecting acorns, conkers and other seeds, and enjoying the fresh air. So far this term we have also been celebrating the Gruffalo's 20th birthday by taking a stroll through the deep dark wood, building dens for different characters, and trying out a recipe for gruffalo crumble! 
+
+Upcoming sessions:
+* 21st October HALF TERM: Dragon School!
+* 28th October: sparkly spiders and pungent potions
+* 4th November: bonfire celebration
+* 11th November: leaf lanterns
+* 18th November: elves and fairies
+* 25th November: Stanley's Stick
+* 2nd December: NO SESSION
+* 9th December: Stick Man
+* 16th December: midwinter celebration and Christmas crafts
 
 ## Where?
 
