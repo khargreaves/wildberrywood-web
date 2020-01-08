@@ -14,22 +14,18 @@ activities, and have plenty of time for free play in the woods.
 
 Monday mornings, 10am-11.30am
 
-Please note there will be no session on 2nd December 2019. The last session of term will be 16th December. 
+Our new terms begins on 13th January 2020. Please note there will be no session on  3rd February, but we will be running a half term session on Monday 17th February. 
 
-Sessions are drop-in - feel free to join us at any point in the term. Check out our [Facebook page](https://www.facebook.com/wildberrywood) page for regular updates and any last minute changes to sessions. 
+Sessions are drop-in - feel free to join us at any point in the term. Like our [Facebook page](https://www.facebook.com/wildberrywood) page for regular updates and any last minute changes to the schedule.
 
-Autumn is my favourite time of year to be out in the forest, watching the leaves change colour, collecting acorns, conkers and other seeds, and enjoying the fresh air. So far this term we have also been celebrating the Gruffalo's 20th birthday by taking a stroll through the deep dark wood, building dens for different characters, and trying out a recipe for gruffalo crumble! 
+It's really important to get outside at this time of year. Although it's tempting to stay snuggled up inside, fresh air, daylight and exercise are vital for keeping our minds and bodies healthy during the winter months. As long as you and your child layer up, you'll have a great time and feel better for it. Tea, coffee, hot chocolate and biscuits are provided at all sessions to keep us going! This term we have lots of fun, colourful activities planned to help us banish those winter blues:
 
-Upcoming sessions:
-* 21st October HALF TERM: Dragon School!
-* 28th October: sparkly spiders and pungent potions
-* 4th November: bonfire celebration
-* 11th November: leaf lanterns
-* 18th November: elves and fairies
-* 25th November: Stanley's Stick
-* 2nd December: NO SESSION
-* 9th December: Stick Man
-* 16th December: midwinter celebration and Christmas crafts
+* 13th January: The Snail and the Whale
+* 20th January: Barry the Fish with Fingers
+* 27th January: Year of the Rat	
+* 3rd February: no session
+* 10th February: Hearts and Flowers
+* 17th February: Half term fun. Older siblings are welcome to attend. 
 
 ## Where?
 
