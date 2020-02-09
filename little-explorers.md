@@ -24,8 +24,17 @@ It's really important to get outside at this time of year. Although it's temptin
 * 20th January: Barry the Fish with Fingers
 * 27th January: Year of the Rat	
 * 3rd February: no session
-* 10th February: Hearts and Flowers
-* 17th February: Half term fun. Older siblings are welcome to attend. 
+* 10th February: *session cancelled due to high winds*
+* 17th February: The Highway Rat half term fun. Older siblings are welcome to attend. 
+
+* 24th February: pancakes!
+* 2nd March: A Busy Day for Birds
+* 9th March: curious caterpillars
+* 16th March: beautiful butterflies
+* 23rd March: Mother's Day
+* 30th March: Going on a Bear Hunt
+* 6th April: Easter fun. Older siblings are welcome to attend.
+* 13th April: Easter Monday, no session
 
 ## Where?
 
