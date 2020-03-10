@@ -27,14 +27,15 @@ It's really important to get outside at this time of year. Although it's temptin
 * 10th February: *session cancelled due to high winds*
 * 17th February: The Highway Rat half term fun. Older siblings are welcome to attend. 
 
-* 24th February: pancakes!
-* 2nd March: A Busy Day for Birds
-* 9th March: curious caterpillars
-* 16th March: beautiful butterflies
+* 24th February: *session cancelled due to high winds*
+* 2nd March: Pancakes!
+* 9th March: A Busy Day for Birds
+* 16th March: curious caterpillars and beautiful butterflies
 * 23rd March: Mother's Day
 * 30th March: Going on a Bear Hunt
 * 6th April: Easter fun. Older siblings are welcome to attend.
 * 13th April: Easter Monday, no session
+* 20th April: summer term begins!
 
 ## Where?
 
