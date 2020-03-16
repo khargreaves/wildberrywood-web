@@ -1,7 +1,7 @@
 ---
 layout: default.liquid
 title: Drop-in Sessions
-categories: [preschool]
+categories: [sessions]
 data:
   head-img: images/img_7473.jpg
 ---

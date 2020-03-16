@@ -4,5 +4,12 @@ site:
   title: Wildberry Wood Outdoor Learning
   description: 
   base_url: http://example.com
+pages:
+  default:
+    layout: default.liquid
 posts:
+  title: Blog
   rss: rss.xml
+  default:
+    layout: default.liquid
+    categories: [blog]

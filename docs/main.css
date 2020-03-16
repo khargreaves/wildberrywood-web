@@ -51,10 +51,11 @@ nav {
 }
 
 #menu > li > :link {
+    display: block;
     color: white;
     text-decoration: none;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 #menu > li > :visited {
@@ -143,4 +144,9 @@ img {
     float:left;
     margin:0.5em;
     margin-right: 2em;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
 }

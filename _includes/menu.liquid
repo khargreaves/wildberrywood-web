@@ -1,12 +1,12 @@
 <nav>
     <h1>
         <a href="index.html">
-            <img src="images/wildberry-100.png" alt="Wildberry Wood">
+            <img src="/images/wildberry-100.png" alt="Wildberry Wood">
         </a>
     </h1>
 
     <button onclick="document.getElementById('menu').classList.toggle('open')">
-        <img src="images/menu.svg"alt="Menu">
+        <img src="/images/menu.svg" alt="Menu">
     </button>
     <ul id="menu">
       <li
@@ -14,7 +14,7 @@
           class="current"
         {% endif %}
         >
-            <a href="index.html">
+            <a href="/index.html">
                 Home
             </a>
         </li>
@@ -23,8 +23,17 @@
           class="current"
         {% endif %}
         >
-            <a href="about.html">
+            <a href="/about.html">
                 About
+            </a>
+        </li>
+      <li
+        {% if page.categories contains "blog" %}
+          class="current"
+        {% endif %}
+        >
+            <a href="/blog.html">
+                Blog
             </a>
         </li>
       <li
@@ -32,7 +41,7 @@
           class="current"
         {% endif %}
         >
-            <a href="sessions.html">
+            <a href="/sessions.html">
                 Drop-in Sessions
             </a>
         </li>
@@ -41,7 +50,7 @@
           class="current"
         {% endif %}
         >
-            <a href="contact.html">
+            <a href="/contact.html">
                 Contact
             </a>
         </li>
