@@ -6,9 +6,6 @@ data:
   head-img: images/img_7473.jpg
 ---
 
-We currently run a weekly forest play group for toddlers,
-preschool children, and their carers. These sessions are run on a
-drop-in basis, so no prebooking is required.
+**All our drop-in sessions are currently suspended due to the COVID-19 outbreak.**
 
- * [Little Explorers](little-explorers.html) - Monday 10-11:30am, Poverest Park, Orpington
-
+For ideas of activities to do with your child at this time, please see our [blog](blog.html).

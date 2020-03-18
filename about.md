@@ -16,22 +16,24 @@ I hold a Forest School First Aid certificate, am DBS cleared, and have
 public liability insurance to carry out Forest School sessions. Copies
 of these documents can be viewed on request.
 
-## Current projects
+## Projects
 
-Here is a taste of what we've got going on at the moment:
+**All our activities are currently suspended due to the COVID-19 outbreak.**
+
+Here is a taste of sessions and activites that we've run in the past:
 
 ![child holding a worm](images/worm.jpg)
 
-* Our [Little Explorers](little-explorers.html) forest play group takes place on Mondays, 10.00-11.30, at Poverest Park Orpington.
+* Our [Little Explorers](little-explorers.html) forest play group in Orpington.
 
-* We have recently launched Forest Fridays, a woodland exploration session at a private nursery in Bromley.
+* Forest Fridays, a woodland exploration session at a private nursery in Bromley.
 
-* I assist on [Forest School training courses](https://thehive-kids.com/pages/forest-school-training) with [The Hive Kids](https://thehive-kids.com/pages/concept-and-curriculum), as well as facilitating holiday missions for primary age children.
+* [Forest School training courses](https://thehive-kids.com/pages/forest-school-training) with [The Hive Kids](https://thehive-kids.com/pages/concept-and-curriculum), and facilitating holiday missions for primary age children.
 
-* I'm employed by Kent County Council as an Activity Ranger for [birthday parties](https://www.kent.gov.uk/leisure-and-community/kent-country-parks/birthday-parties) and other outdoor sessions.
+* [Birthday parties](https://www.kent.gov.uk/leisure-and-community/kent-country-parks/birthday-parties) and other outdoor sessions with Kent County Council.
 
-* I help at [Muddy Boots](https://www.facebook.com/muddybootsfs/) who run monthly sessions and birthday parties. 
+* [Muddy Boots](https://www.facebook.com/muddybootsfs/) running monthly sessions and birthday parties. 
 
-We're always on the look out for new projects and opportunities, so if you know of a school or childcare setting looking to introduce or develop Forest School or outdoor learning, do [get in touch](mailto:wildberrywoodlearning@gmail.com). 
+To contact us email [wildberrywoodlearning@gmail.com](mailto:wildberrywoodlearning@gmail.com). 
 
 
