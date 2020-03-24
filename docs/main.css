@@ -140,6 +140,10 @@ dd {
     margin-bottom: 1em;
 }
 
+main {
+    line-height: 1.4;
+}
+
 main img {
     float:left;
     margin:0.5em;
@@ -152,3 +156,9 @@ ol {
     list-style-type: none;
     padding: 0;
 }
+
+blockquote {
+    font-style: italic;
+    color: #111;
+}
+
