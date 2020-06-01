@@ -1,7 +1,8 @@
 ---
 title: Wild Things
+published_date: "2020-06-01 19:42:33 +0000"
 layout: default.liquid
-is_draft: true
+is_draft: false
 data:
   head-img: /images/wildthing.jpg
 ---
