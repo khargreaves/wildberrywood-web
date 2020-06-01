@@ -1,6 +1,6 @@
 ---
 title: Dinosaurs
-published_date: "2020-05-26 15:21:55 +0000"
+published_date: "2020-05-26 15:40:14 +0000"
 layout: default.liquid
 is_draft: false
 data:
