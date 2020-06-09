@@ -50,7 +50,7 @@ We made up a song about our favourite invertebrate friends, to the tune of 'I Sa
 
 >I saw a bee a'buzzing by...<br>
 >I saw a worm a'wriggling by...<br>
->I saw a bee a'buzzing by...<br>
+>I saw a spider scuttling by...<br>
 >I saw a butterfly fluttering by...<br>
 
 We also played a game where we had to pretend to be: 
