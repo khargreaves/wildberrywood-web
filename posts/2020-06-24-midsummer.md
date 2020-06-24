@@ -12,6 +12,8 @@ In the UK most of us don't do much to mark midsummer, the longest day of the yea
 
 The Swedish festivities usually include making crowns from wildflowers, dancing around a maypole, and enjoying seasonal foods such as new potatoes and summer berries. A popular Midsummer song is 'Små Grodorna' ('Little Frogs'). Why not try jumping around like frogs while you [listen to it?](https://www.youtube.com/watch?v=GZcJWebhbMk) The words roughly translate as: *Small frogs, small frogs - how funny to see them/They don't have ears, they don't have tails/Quack quack quack!*
 
+![](/images/frogtoy.jpg)
+
 # Fairies at the Bottom of the Garden?
 
 I'm sure that the fairies come out to play at Midsummer. We like the story *Freddie and the Fairy*, which you can watch being [performed by Julia and Malcolm Donaldson](https://www.facebook.com/watch/?v=608901193058256) in one of their recent broadcasts.
