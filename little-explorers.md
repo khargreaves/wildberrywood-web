@@ -3,43 +3,56 @@ layout: default.liquid
 title: Little Explorers
 categories: [sessions]
 data:
-  head-img: images/img_7619.jpg
+  head-img: images/toyspider.jpg
 ---
 
-Little Explorers is a Forest School style group for toddlers and preschool children
-and their carers. We read stories, sing songs, do nature based
-activities, and have plenty of time for free play in the woods.
+## Little Explorers Autumn 2020
 
-## When?
+Little Explorers is back! We are thrilled to be able to start offering our preschool sessions at Poverest Park once more. However, due to the ongoing risks associated with Covid-19 we have made a few changes to our set up. 
 
-Monday mornings, 10am-11.30am
+Sessions will be **pre-booked only**. Please do not come unless you are booked in. This is to avoid overcrowding. 
 
-Our new terms begins on 13th January 2020. Please note there will be no session on  3rd February, but we will be running a half term session on Monday 17th February. 
+This term we are taking bookings for a block of 4 sessions at a time:
 
-Sessions are drop-in - feel free to join us at any point in the term. Like our [Facebook page](https://www.facebook.com/wildberrywood) page for regular updates and any last minute changes to the schedule.
+* Monday 5th October
+* Monday 19th October
+* Monday 2nd November
+* Monday 9th November
 
-It's really important to get outside at this time of year. Although it's tempting to stay snuggled up inside, fresh air, daylight and exercise are vital for keeping our minds and bodies healthy during the winter months. As long as you and your child layer up, you'll have a great time and feel better for it. Tea, coffee, hot chocolate and biscuits are provided at all sessions to keep us going! This term we have lots of fun, colourful activities planned to help us banish those winter blues:
+The cost will be £36 per child for all four sessions, payable in advance to secure your place. Only one accompanying adult is permitted per child. 
 
-* 13th January: The Snail and the Whale
-* 20th January: Barry the Fish with Fingers
-* 27th January: Year of the Rat	
-* 3rd February: no session
-* 10th February: *session cancelled due to high winds*
-* 17th February: The Highway Rat half term fun. Older siblings are welcome to attend. 
+By pre-booking the sessions we aim to ensure that:
+* We keep the numbers of children and adults strictly limited to help maintain social distancing
+* We have your contact information in case we need to inform you of an infection report or have to cancel at short notice
+* Activities and equipment can be prepared in advance 
 
-* 24th February: *session cancelled due to high winds*
-* 2nd March: Pancakes!
-* 9th March: A Busy Day for Birds
-* 16th March: curious caterpillars and beautiful butterflies
-* 23rd March: Mother's Day
-* 30th March: Going on a Bear Hunt
-* 6th April: Easter fun. Older siblings are welcome to attend.
-* 13th April: Easter Monday, no session
-* 20th April: summer term begins!
+## Please read the following information carefully:
+* Adults are required to wear face coverings (unless exempt).
+* You MUST NOT attend if you or your child are experiencing [Covid-19 symptoms](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/). As a precaution temperature checks will be carried out at the start of each session. 
+* Refunds will be given if sessions have to be cancelled e.g. due to Covid-19, or extreme weather (high winds/thunderstorms). 
+* Sessions WILL go ahead if it's raining so please make sure you and your child dress appropriately. It is wise to layer up. Waterproof jackets and boots are essential, and waterproof trousers or puddle suits can be useful even if it is not wet, as children like to sit on the ground. We strongly recommend wearing long sleeves and trousers in all weathers to avoid scratches and biting insects.
+* Toilets and handwashing facilities are available in the football pavilion. We will also provide extra handwashing facilities and hand sanitiser in the woods. 
 
-## Where?
+If you are happy with the above and would like to enquire about booking please email [wildberrywoodlearning@gmail.com](mailto:wildberrywoodlearning@gmail.com).
 
-Covet Woods, Poverest Park, Orpington.
+## Activities
+
+Autumn is my favourite time to be out in the woods, with the leaves changing colour and lots of interesting things to find. Your child will have a chance to take part in the following:
+* exploring the woods
+* minibeast hunting
+* mud play
+* creating natural art
+* climbing and balancing on obstacles
+* painting, play dough and crafts
+* using simple tools
+* experiencing the changing seasons
+* learning to enjoy and protect nature
+
+![](/images/autumnhands.jpg)
+
+## Location
+
+Little Explorers takes place in Covet Woods, Poverest Park, Orpington.
 
 Poverest Park is a short walk from Orpington town centre. The nearest
 bus stop is Perry Hall School (stop P, route 61) and the free car park is
@@ -55,43 +68,9 @@ style="border: 1px solid
 black; max-width:100%"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/51.38471/0.09606">View
 Larger Map</a></small>
 
-## How much?
+![](/images/jumpforjoy.jpg)
 
-Sessions are charged at £5 per child over 1 year. Younger siblings are welcome to come along free of charge. During the school holidays older siblings are welcome to attend.
+If you have any further questions please email [wildberrywoodlearning@gmail.com](mailto:wildberrywoodlearning@gmail.com).
 
-Sessions are drop-in, no need to pre book. There are two ways to pay:
-* £5 cash on the day
+We can't wait to get exploring with you again soon!
 
-or
-
-* get 6 sessions for the price of 5 with our pre-pay flexicard. Fill out the [sign up form](https://goo.gl/forms/UmXTaIS859GcpKzI2) to take advantage of this offer and get details of how to pay by bank transfer. You can use your flexicard over any time scale, it doesn't have to be for consecutive sessions. We know that plans can often change at the last minute when little ones are involved!
-
-## Why?
-
-There is a growing body of research that shows that everyone, young
-and old, benefits from contact with nature. It relieves stress, makes
-us more mindful, and creates confident, well-rounded young people. We
-also believe that it's important to encourage children to respect
-nature, so that they will want to protect it for the future. It's also lots of fun!
-
-## What facilities are available?
-We have access to toilets and handwashing facilities in the football pavilion. Refreshments are provided for children and grown ups.
-
-## What will my child need to wear?
-Sessions will take place in all weathers (except thunderstorms
-  and high winds, for safety reasons) so please dress your child (and
-  yourself!) appropriately. It is wise to layer up. Waterproof jackets
-  and boots are essential, and waterproof trousers or puddle suits can
-  be useful even if it is not wet, as children like to sit on the
-  ground. We strongly recommend wearing long sleeves and trousers in all weathers to avoid scratches and biting insects (it is also often cooler in the woods than it feels outside). If you have any questions about suitable clothing, or would like to find out if we have any second hand kit in your size, please send us an [email](mailto:wildberrywoodlearning@gmail.com). Similarly if your child has grown out of their kit and you would like to donate it, we will see that it gets used!
-
-## Please note
-These sessions are for preschool children accompanied by a
-  parent, grandparent, childminder or other carer. We are in a public
-  space, and whilst efforts are made to check for hazards, it's
-  important that you keep your child under supervision at all
-  times. Please report any hazards found to the session leader. Other people, especially dog walkers, use the area, so please
-  be mindful of this.
-Please respect the site. We have permission to use the woods from Bromley council, but that permission can be withdrawn if they think we are damaging the woodland habitat. Please avoid trampling flowers and pulling leaves and twigs off trees. Please don’t drop any litter.
-
-## We look forward to exploring with you!
