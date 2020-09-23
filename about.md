@@ -18,13 +18,11 @@ of these documents can be viewed on request.
 
 ## Projects
 
-**All our activities are currently suspended due to the COVID-19 outbreak.**
-
-Here is a taste of sessions and activites that we've run in the past:
+Here is a taste of some of our past and ongoing activities:
 
 ![child holding a worm](images/worm.jpg)
 
-* Our [Little Explorers](little-explorers.html) forest play group in Orpington.
+* Our [Little Explorers](sessions.html) forest play group in Orpington.
 
 * Forest Fridays, a woodland exploration session at a private nursery in Bromley.
 

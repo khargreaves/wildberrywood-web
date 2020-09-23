@@ -1,6 +1,6 @@
 ---
 layout: default.liquid
-title: Drop-in Sessions
+title: Sessions
 categories: [sessions]
 data:
   head-img: images/toyspider.jpg
