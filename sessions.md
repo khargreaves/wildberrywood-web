@@ -19,6 +19,8 @@ This term we are taking bookings for a block of 4 sessions at a time:
 * Monday 2nd November
 * Monday 9th November
 
+Time: 10.15-11.45
+
 The cost will be £36 per child for all four sessions, payable in advance to secure your place. Only one accompanying adult is permitted per child. 
 
 By pre-booking the sessions we aim to ensure that:
