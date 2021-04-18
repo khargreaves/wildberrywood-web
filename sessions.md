@@ -3,43 +3,40 @@ layout: default.liquid
 title: Sessions
 categories: [sessions]
 data:
-  head-img: images/toyspider.jpg
+  head-img: images/worminhand.jpg
 ---
 
-## Little Explorers Autumn 2020
+## Little Explorers Spring 2021
 
-Little Explorers is back! We are thrilled to be able to start offering our preschool sessions at Poverest Park once more. However, due to the ongoing risks associated with Covid-19 we have made a few changes to our set up. 
+Little Explorers is back! We are thrilled to be able to start offering our Forest School style preschool sessions at Poverest Park once more. However, due to the ongoing risks associated with Covid-19 we have made a few changes to our set up. 
 
-Sessions will be **pre-booked only**. Please do not come unless you are booked in. This is to avoid overcrowding. 
+Sessions will be **pre-booked only**. Please do not come unless you are booked in. This is to ensure that we adhere to current government guidelines. 
 
-This term we are taking bookings for a block of 4 sessions at a time:
+Upcoming dates for this half term are: 
 
-* Monday 5th October
-* Monday 19th October
-* Monday 2nd November
-* Monday 9th November
+* Monday 26th April
+* Monday 3rd May (bank holiday)
+* Monday 10th May
+* Monday 17th May
 
 Time: 10.15-11.45
 
-The cost will be £36 per child for all four sessions, payable in advance to secure your place. Only one accompanying adult is permitted per child. 
+The cost will be £7 per child per session - or book all four for the discounted price of £24 - payable in advance to secure your place. Only one accompanying adult is permitted per child. The recommended age range is from walking to school start. Pre-walking siblings are free of charge. 
 
-By pre-booking the sessions we aim to ensure that:
-* We keep the numbers of children and adults strictly limited to help maintain social distancing
-* We have your contact information in case we need to inform you of an infection report or have to cancel at short notice
-* Activities and equipment can be prepared in advance 
+## Please read the following booking conditions carefully:
 
-## Please read the following information carefully:
-* Adults are required to wear face coverings (unless exempt).
-* You MUST NOT attend if you or your child are experiencing [Covid-19 symptoms](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/). As a precaution temperature checks will be carried out at the start of each session. 
-* Refunds will be given if sessions have to be cancelled e.g. due to Covid-19, or extreme weather (high winds/thunderstorms). 
-* Sessions WILL go ahead if it's raining so please make sure you and your child dress appropriately. It is wise to layer up. Waterproof jackets and boots are essential, and waterproof trousers or puddle suits can be useful even if it is not wet, as children like to sit on the ground. We strongly recommend wearing long sleeves and trousers in all weathers to avoid scratches and biting insects.
+* In line with government guidelines numbers will be strictly limited to a maximum of 15 adults. We therefore ask that only one adult accompany each child at this time. If you are bringing two children you may bring another adult. Please fill out a separate booking form for each child. 
+* You MUST NOT attend if you or your child are experiencing [Covid-19 symptoms](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/) or are awaiting test results. Refunds will be issued if you have to cancel due to Covid-19.
+* 2m social distancing will be observed, but in case it is not possible at all times adults are encouraged to wear face coverings. 
+* Sessions go ahead in all weathers (except high winds and thunderstorms) so please make sure you and your child dress appropriately. It is wise to layer up. Waterproof jackets and boots are essential, and waterproof trousers or puddle suits can be useful even if it is not wet, as children like to sit on the ground. We strongly recommend wearing long sleeves and trousers and closed-toed shoes in all weathers to avoid scratches and biting insects.
+* Hot and cold drinks will be served, but please bring your own snacks. 
 * Toilets and handwashing facilities are available in the football pavilion. We will also provide extra handwashing facilities and hand sanitiser in the woods. 
 
-If you are happy with the above and would like to enquire about booking please email [wildberrywoodlearning@gmail.com](mailto:wildberrywoodlearning@gmail.com).
+To book your place please complete [this form.](https://forms.gle/y3xTEHtsyhyp4oUXA) 
 
 ## Activities
 
-Autumn is my favourite time to be out in the woods, with the leaves changing colour and lots of interesting things to find. Your child will have a chance to take part in the following:
+Spring is a fantastic time to be out in the woods. Your child will have a chance to take part in the following:
 * exploring the woods
 * minibeast hunting
 * mud play
@@ -50,7 +47,7 @@ Autumn is my favourite time to be out in the woods, with the leaves changing col
 * experiencing the changing seasons
 * learning to enjoy and protect nature
 
-![](/images/autumnhands.jpg)
+![](/images/treepaint.jpg)
 
 ## Location
 
@@ -69,8 +66,6 @@ src="https://www.openstreetmap.org/export/embed.html?bbox=0.08855581283569336%2C
 style="border: 1px solid
 black; max-width:100%"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/51.38471/0.09606">View
 Larger Map</a></small>
-
-![](/images/jumpforjoy.jpg)
 
 If you have any further questions please email [wildberrywoodlearning@gmail.com](mailto:wildberrywoodlearning@gmail.com).
 
