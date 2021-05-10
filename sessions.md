@@ -3,51 +3,45 @@ layout: default.liquid
 title: Sessions
 categories: [sessions]
 data:
-  head-img: images/worminhand.jpg
+  head-img: images/treepaint.jpg
 ---
 
-## Little Explorers Spring 2021
+## Little Explorers Summer 2021
 
-Little Explorers is back! We are thrilled to be able to start offering our Forest School style preschool sessions at Poverest Park once more. However, due to the ongoing risks associated with Covid-19 we have made a few changes to our set up. 
+Little Explorers, our forest play sessions for preschool children, take place on a Monday morning at Poverest Park, Orpington. 
 
-Sessions will be **pre-booked only**. Please do not come unless you are booked in. This is to ensure that we adhere to current government guidelines. 
+Due to to the ongoing situation regarding Covid-19 sessions must be **pre-booked**. Please do not come unless you are booked in. This is to ensure that we keep numbers manageable. 
 
 Upcoming dates for this half term are: 
 
-* Monday 26th April
-* Monday 3rd May (bank holiday)
-* Monday 10th May
-* Monday 17th May
+* Monday 31st May (bank holiday)
+* Monday 7th June
+* Monday 14th June
+* Monday 21st June 
+* Monday 28th June
+* Monday 5th July
 
 Time: 10.15-11.45
 
-The cost will be £7 per child per session - or book all four for the discounted price of £24 - payable in advance to secure your place. Only one accompanying adult is permitted per child. The recommended age range is from walking to school start. Pre-walking siblings are free of charge. 
+The cost is £7 per child per session, or book four or more sessions in advance for the discounted price of £6 per session. Fees are payable in advance to secure your place. The recommended age range is from walking to school start. Pre-walking siblings are free of charge. 
 
 ## Please read the following booking conditions carefully:
 
-* In line with government guidelines numbers will be strictly limited to a maximum of 15 adults. We therefore ask that only one adult accompany each child at this time. If you are bringing two children you may bring another adult. Please fill out a separate booking form for each child. 
 * You MUST NOT attend if you or your child are experiencing [Covid-19 symptoms](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/) or are awaiting test results. Refunds will be issued if you have to cancel due to Covid-19.
-* 2m social distancing will be observed, but in case it is not possible at all times adults are encouraged to wear face coverings. 
 * Sessions go ahead in all weathers (except high winds and thunderstorms) so please make sure you and your child dress appropriately. It is wise to layer up. Waterproof jackets and boots are essential, and waterproof trousers or puddle suits can be useful even if it is not wet, as children like to sit on the ground. We strongly recommend wearing long sleeves and trousers and closed-toed shoes in all weathers to avoid scratches and biting insects.
+* Covet Woods is an open site used by dog walkers and other members of the public. Although we check the area before each session, please supervise your child at all times and alert the group leader to any potential hazards. 
 * Hot and cold drinks will be served, but please bring your own snacks. 
 * Toilets and handwashing facilities are available in the football pavilion. We will also provide extra handwashing facilities and hand sanitiser in the woods. 
 
-To book your place please complete [this form.](https://forms.gle/y3xTEHtsyhyp4oUXA) 
+To book your place please complete [this form.](https://forms.gle/QmvYJJ1gVJeTYvpe9) If you have attended before and your details have not changed you can email wildberrywoodlearning@gmail.com stating the dates you'd like to book. 
 
 ## Activities
 
-Spring is a fantastic time to be out in the woods. Your child will have a chance to take part in the following:
-* exploring the woods
-* minibeast hunting
-* mud play
-* creating natural art
-* climbing and balancing on obstacles
-* painting, play dough and crafts
-* using simple tools
-* experiencing the changing seasons
-* learning to enjoy and protect nature
+Our theme of this half term will be Let's Go Wild, inspired by the [Wildlife Trusts' 30 Days Wild challenge](https://www.wildlifetrusts.org/30-days-wild-2021-sign-your-pack), which aims to get everyone out and about committing 'random acts of wildness' during the month of June. 
 
-![](/images/treepaint.jpg)
+We believe that enjoying nature has never been more important for all our well-being. Little Explorers is run along Forest School principles of free play and child-centred learning. Children are encouraged to assess risk, and to take part in more challenging activities, such as using tools and navigating obstacles, in a managed way. The result is an increased sense of confidence and self-esteem. Plus it's lots of fun! 
+ 
+![](/images/duckbalance.jpg)
 
 ## Location
 
